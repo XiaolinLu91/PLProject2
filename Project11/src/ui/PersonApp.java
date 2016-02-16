@@ -1,4 +1,4 @@
-package cannata;
+package ui;
 
 import java.util.Scanner;
 

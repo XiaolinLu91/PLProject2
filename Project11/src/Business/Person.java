@@ -1,4 +1,4 @@
-package cannata;
+package Business;
 
 /**
  * Created by xiaolinlu on 2/13/16.
